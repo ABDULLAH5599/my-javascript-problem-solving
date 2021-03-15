@@ -1,5 +1,5 @@
 //convert KilometerToMeter
-/* 
+
 function KilometerToMeter(num){
 
     var meterNum= num*1000;
@@ -51,7 +51,7 @@ function hotelCost(day){
 }
 var numberOfdays= hotelCost(30);
 console.log(numberOfdays);
-*/
+
 // megaFriend
 const myfriend=["rohim","asu","shilpa","mohi","kohinur"];
 function megaFriend (arr){
